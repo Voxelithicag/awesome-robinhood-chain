@@ -15,6 +15,7 @@ A curated list of projects, tools, and resources for Robinhood Chain (EVM, chain
 
 - **[production]** [Voxelithic](https://voxelithic.xyz) — liquidity aggregation layer, reads every venue into one book
 - **[production]** [Pons](https://pons.exchange) — token launchpad (pump.fun equivalent for RH Chain)
+- **[production]** [DEX Ranks](https://dexranks.com) — paid token leaderboard. Highest whole-dollar USD bid sits on top. `$RANKS` burns on chain 4663
 
 ## DEXs
 
