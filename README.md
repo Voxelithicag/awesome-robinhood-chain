@@ -6,6 +6,7 @@ A curated list of projects, tools, and resources for Robinhood Chain (EVM, chain
 
 - [DeFi](#defi)
 - [DEXs](#dexs)
+- [Collectibles](#collectibles)
 - [Infrastructure](#infrastructure)
 - [Tokenized Equities](#tokenized-equities)
 - [Developer Tools](#developer-tools)
@@ -23,6 +24,10 @@ A curated list of projects, tools, and resources for Robinhood Chain (EVM, chain
 - **[production]** [Ramses](https://ramses.exchange) — ve(3,3) DEX with concentrated liquidity
 - **[production]** [Giga](https://giga.exchange) — concentrated liquidity
 - **[production]** [Up Exchange](https://up.exchange) — constant product AMM
+
+## Collectibles
+
+- **[beta]** [Stockmon](https://www.stockmon.app/genesis) — Creature collections with Genesis originals and Aetheryn descendants on Robinhood Chain.
 
 ## Infrastructure
 
