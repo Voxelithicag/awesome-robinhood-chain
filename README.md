@@ -13,6 +13,7 @@ A curated list of projects, tools, and resources for Robinhood Chain (EVM, chain
 
 ## DeFi
 
+- **[production]** [Stoa](https://stoadex.com) — swap router comparing Uniswap V2/V3/V4, Aero, Ramses and Pons curves per trade; free token safety check, limit orders and an MCP server for AI agents
 - **[production]** [Voxelithic](https://voxelithic.xyz) — liquidity aggregation layer, reads every venue into one book
 - **[production]** [Pons](https://pons.exchange) — token launchpad (pump.fun equivalent for RH Chain)
 
